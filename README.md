@@ -1,4 +1,4 @@
-# Dự án Basic of Artificial Intelligent
+# Dự án Basic of Artificial Intelligent - Author: Võ Lê Chí Dũng
 
 ## Giới thiệu
 
